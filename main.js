@@ -51,6 +51,8 @@ chrome.tabs.onUpdated.addListener((tabId , info , tab) =>
 		return;
 	}
 
+	getStored();
+
 	if(info.status === 'complete')
 	{
 		injectStyle(tabId, Object.keys(data).map((name) =>
