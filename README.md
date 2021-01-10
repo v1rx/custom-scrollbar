@@ -13,6 +13,7 @@
 ### Features
 
 - Change track width.
+- Change track color.
 - Change thumb color.
 - Change hover color.
 
