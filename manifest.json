@@ -18,5 +18,5 @@
 		"persistent" : false,
 		"run_at": "document_start"
 	},
-	"permissions": ["tabs", "storage", "<all_urls>"]
+	"permissions": ["activeTab", "storage", "<all_urls>"]
 }
