@@ -1,6 +1,6 @@
 ---
 <p align="center">
-<img src="https://v1r.eu/us/banner.png">
+<img src="https://v1r.eu/ext/banner.png">
 </p>
 
 ---
@@ -21,8 +21,8 @@
 ### Images
 
 > Popup menu.</br>
-![](https://v1r.eu/us/1.png)</br>
+![](https://v1r.eu/ext/1.png)</br>
 > Scrollbar example.</br>
-![](https://v1r.eu/us/2.gif)
+![](https://v1r.eu/ext/2.gif)
 
 ---
