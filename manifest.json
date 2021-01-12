@@ -3,7 +3,7 @@
 	"description": "Gives you the ability to easily customize your scrollbar.",
 	"author": "emy v1r Sixem LLC",
 	"manifest_version": 2,
-	"version": "1.0",
+	"version": "1.2",
 	"homepage_url": "https://v1r.eu/",
 	"icons": {
 		"128": "128.png"
