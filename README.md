@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/v1rx/custom-scrollbar/releases"><img src="https://img.shields.io/github/v/release/v1rx/custom-scrollbar"></a> <a href="https://github.com/v1rx/custom-scrollbar/blob/main/LICENSE"><img src="https://img.shields.io/github/license/v1rx/custom-scrollbar"></a>
+<a href="https://github.com/v1rx/custom-scrollbar/releases"><img src="https://img.shields.io/github/v/release/v1rx/custom-scrollbar.svg?style=for-the-badge"></a> <a href="https://github.com/v1rx/custom-scrollbar/blob/main/LICENSE"><img src="https://img.shields.io/github/license/v1rx/custom-scrollbar.svg?style=for-the-badge"></a> <img src="https://img.shields.io/badge/Made%20for-Chrome-blue.svg?style=for-the-badge&logo=google-chrome">
 </p>
 
 ---
