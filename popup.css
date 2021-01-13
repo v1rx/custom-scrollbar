@@ -38,4 +38,5 @@ a
 	bottom: 2px;
 	right: 8px;
 	color: #f3ea5f;
+	pointer-events: none;
 }
