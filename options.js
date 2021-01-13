@@ -1,3 +1,5 @@
+const manifest = chrome.runtime.getManifest();
+
 document.querySelectorAll('input[type="color"], input[type="text"]').forEach((e) =>
 {
 	var key = e.getAttribute('name');
@@ -23,3 +25,5 @@ document.querySelector('input[name="save"]').addEventListener('click', (e) =>
 		console.log('Saved');
 	});
 });
+
+document.getElementById('version').innerHTML = manifest.version;
